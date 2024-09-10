@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "mysite.local",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "appl1",
+            "database": "application1",
+            "username": "application_user",
+            "password": "geekbrains!23"
+        }
+    ]
+}
